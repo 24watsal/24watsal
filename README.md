@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm currently working on a grade 12 computer science ISU.
+
+I'm currently learning to use GitHub.
+
+**I like playing _hockey_ and I'm _Canadian!!!_**
 <!--
 **24watsal/24watsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
